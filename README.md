@@ -25,18 +25,18 @@ The cutest Discord client mod
 
 ## Installing / Uninstalling
 
-Visit https://vencord.dev/download
+Press Dowloand Zip
 
 ## Join our Support/Community Server
 
-https://discord.gg/D9uwnFnqmd
+--
 
 ## Sponsors
 
-| **Thanks a lot to all Vencord [sponsors](https://github.com/sponsors/Vendicated)!!** |
+| **Thanks a lot to all Vencord [sponsors](https://github.com/sponsors/--)!!** |
 |:--:| 
-| [![](https://meow.vendicated.dev/sponsors.png)](https://github.com/sponsors/Vendicated) |
-| *generated using [github-sponsor-graph](https://github.com/Vendicated/github-sponsor-graph)* |
+| [![](https://meow.vendicated.dev/sponsors.png)](https://github.com/sponsors/---) |
+| *generated using [github-sponsor-graph](https://github.com/Vendicated/---)* |
 
 
 ## Star History
